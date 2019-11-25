@@ -1,0 +1,11 @@
+C:\Users\EMMY PIANO\Desktop\218006536\employees 2\employees 2\bin\Debug\netcoreapp2.2\employees 2.deps.json
+C:\Users\EMMY PIANO\Desktop\218006536\employees 2\employees 2\bin\Debug\netcoreapp2.2\employees 2.runtimeconfig.json
+C:\Users\EMMY PIANO\Desktop\218006536\employees 2\employees 2\bin\Debug\netcoreapp2.2\employees 2.runtimeconfig.dev.json
+C:\Users\EMMY PIANO\Desktop\218006536\employees 2\employees 2\bin\Debug\netcoreapp2.2\employees 2.dll
+C:\Users\EMMY PIANO\Desktop\218006536\employees 2\employees 2\bin\Debug\netcoreapp2.2\employees 2.pdb
+C:\Users\EMMY PIANO\Desktop\218006536\employees 2\employees 2\obj\Debug\netcoreapp2.2\employees 2.csprojAssemblyReference.cache
+C:\Users\EMMY PIANO\Desktop\218006536\employees 2\employees 2\obj\Debug\netcoreapp2.2\employees 2.csproj.CoreCompileInputs.cache
+C:\Users\EMMY PIANO\Desktop\218006536\employees 2\employees 2\obj\Debug\netcoreapp2.2\employees 2.AssemblyInfoInputs.cache
+C:\Users\EMMY PIANO\Desktop\218006536\employees 2\employees 2\obj\Debug\netcoreapp2.2\employees 2.AssemblyInfo.cs
+C:\Users\EMMY PIANO\Desktop\218006536\employees 2\employees 2\obj\Debug\netcoreapp2.2\employees 2.dll
+C:\Users\EMMY PIANO\Desktop\218006536\employees 2\employees 2\obj\Debug\netcoreapp2.2\employees 2.pdb
